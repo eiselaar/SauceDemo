@@ -1,0 +1,6 @@
+{
+    "firtsname":"[data-test=firstName]", 
+    "lastname": "[data-test=lastName]",
+    "zipcode" :"[data-test=postalCode]",
+    "btncontinue": "[data-test=continue]"
+}
